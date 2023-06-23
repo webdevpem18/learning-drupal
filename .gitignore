@@ -1,0 +1,19 @@
+# Ignore paths that contain user-generated content.
+web/sites/*/files
+web/sites/*/private
+vendor
+tmp
+/web/core/
+/web/modules/contrib/
+/web/themes/contrib/
+/web/profiles/contrib/
+/web/libraries/
+
+# Ignore server-specific info
+web/sites/default/settings.local.php
+
+# Ignore generated vendor files
+/.idea/
+.DS_Store
+.tags
+php_errors.log
