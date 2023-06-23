@@ -1,0 +1,4 @@
+name: My Module
+description: This is an example module from the Drupal Development Cookbook!
+type: module
+core_version_requirement: '>=10'
